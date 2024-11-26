@@ -6,4 +6,4 @@
 ## Установка и запуск  
 1. Клонируйте репозиторий:  
    ```bash  
-   git clone 
+   git clone https://github.com/Frocia/vosir-
