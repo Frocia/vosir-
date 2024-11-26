@@ -1,5 +1,4 @@
 # vosir-
-висилица
 import random
 
 words = ["python", "javascript", "programming", "computer"]
